@@ -71,7 +71,7 @@ FitnessBuddy delivers a comprehensive and intelligent solution for fitness manag
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/FitnessBuddy.git
+git clone https://github.com/sivaramakrishna2005/FitnessBuddy.git
 cd FitnessBuddy
 
 # Install dependencies
